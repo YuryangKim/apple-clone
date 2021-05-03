@@ -50,7 +50,7 @@
 
 <br>
 
-[![애플 구현영상]("https://user-images.githubusercontent.com/75065159/116878082-c7422600-ac59-11eb-8be1-0e5f581be0b8.png")](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
+[![애플 구현영상](<img width="491" alt="스크린샷 2021-05-03 오후 9 50 18" src="https://user-images.githubusercontent.com/75065159/116878372-3586e880-ac5a-11eb-94e8-8087413827a6.png">)](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
 
 
 
