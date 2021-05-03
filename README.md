@@ -50,7 +50,8 @@
 
 <br>
 
-<iframe width="1793" height="960" src="https://www.youtube.com/embed/hG0PqwbJYmk?list=PLePTAP4fjrGCMhfiSoQBS8TvBTtdmwt88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![애플 구현영상](https://user-images.githubusercontent.com/75065159/116877517-01f78e80-ac59-11eb-8abf-a889b0a3dffe.jpeg)](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
+
 
 
 <br>
@@ -58,7 +59,6 @@
 <br>
 
 ## 💡 프로젝트 구현 범위 / 사이트 주요 기능 
-
 <br>
 
 [Header Section]
@@ -88,7 +88,7 @@
 	✔︎ 링크별 클릭 가능한 범위 수정  
 	  클릭 가능한 영역이 과도하게 넓고, 해당 영역 밖의 커서 변경이 UX 관점에서 이용자에게 혼란을 초래한다고 생각하여 클릭 가능한 범위를 수정하였습니다.  
 
-	[참고](https://youtu.be/8Re9lMGYLr4)
+[개선 영상](https://youtu.be/8Re9lMGYLr4)
 
 <br>
 <br>
