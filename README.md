@@ -50,7 +50,7 @@
 
 <br>
 
-[![애플 구현영상](https://user-images.githubusercontent.com/75065159/116880444-fa39e900-ac5c-11eb-9c70-b9b167843638.png)](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
+[![애플 구현영상](https://user-images.githubusercontent.com/75065159/116881738-957f8e00-ac5e-11eb-9ed2-826b08be2745.png)](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
 
 
 <br>
