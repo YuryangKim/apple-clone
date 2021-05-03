@@ -50,7 +50,7 @@
 
 <br>
 
-[![애플 구현영상](https://user-images.githubusercontent.com/75065159/116877517-01f78e80-ac59-11eb-8abf-a889b0a3dffe.jpeg)](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
+[![애플 구현영상]("https://user-images.githubusercontent.com/75065159/116878082-c7422600-ac59-11eb-8be1-0e5f581be0b8.png")](https://youtu.be/hG0PqwbJYmk "애플 구현영상")
 
 
 
@@ -87,6 +87,8 @@
 
 	✔︎ 링크별 클릭 가능한 범위 수정  
 	  클릭 가능한 영역이 과도하게 넓고, 해당 영역 밖의 커서 변경이 UX 관점에서 이용자에게 혼란을 초래한다고 생각하여 클릭 가능한 범위를 수정하였습니다.  
+
+<br>
 
 [개선 영상](https://youtu.be/8Re9lMGYLr4)
 
